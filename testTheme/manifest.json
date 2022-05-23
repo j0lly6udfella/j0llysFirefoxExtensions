@@ -1,0 +1,69 @@
+{
+
+    "description": "Theme using a PNG as the theme_frame image, employing a faded edge. See https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples#themes",
+    "manifest_version": 2,
+    "name": "test",
+    "version": "1.1",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/themes/weta_fade",
+  
+    "theme": {
+      "images": {
+        "theme_frame": "test.png"//,
+  
+        //"additional_backgrounds": []
+      },
+      
+      "colors": {
+         "frame": "#adb09f",
+         "tab_text": "#000",
+  
+         //"accentcolor: "",
+         "bookmark_text": "",
+         "button_background_active": "",
+         "button_background_hover": "",
+         "icons": "",
+         "icons_attention": "",
+         
+         "frame_inactive": "",
+         "ntp_background": "",
+         "ntp_text": "",
+         "popup": "",
+         "popup_border": "",
+         "popup_highlight": "",
+         "popup_highlight_text": "",
+         "popup_text": "",
+         "sidebar": "",
+         "sidebar_border": "",
+         "sidebar_highlight": "",
+         "sidebar_highlight_text": "",
+         "sidebar_text": "",
+         //"tab_background_separator": "",
+         "tab_background_text": "",
+         "tab_line": "",
+         "tab_loading": "",
+         "tab_selected": "",
+         
+         //"textcolor": "",
+         "toolbar": "",
+         "toolbar_bottom_separator": "",
+         "toolbar_field": "",
+         "toolbar_field_border": "",
+         "toolbar_field_border_focus": "",
+         "toolbar_field_focus": "",
+         "toolbar_field_highlight": "",
+         "toolbar_field_highlight_text": "",
+         //"toolbar_field_separator": "",
+         "toolbar_field_text": "",
+         "toolbar_field_text_focus": "",
+         "toolbar_text": "",
+         "toolbar_top_separator": "",
+         "toolbar_vertical_separator": ""
+      },
+  
+      "properties": {
+          //"additional_backgrounds_alignment": [],
+          //"additional_backgrounds_tiling": []
+      }
+    }
+  }
+  
