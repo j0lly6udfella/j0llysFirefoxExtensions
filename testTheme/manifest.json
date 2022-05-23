@@ -8,12 +8,12 @@
   
     "theme": {
       "images": {
-        "theme_frame": "test.png"//,
+        "theme_frame": "test.png"//, // Chrome = Anchors top left
   
         //"additional_backgrounds": []
       },
       
-      "colors": {
+      "colors": {// Chrome = "colors": [0, 0, 0]
          "frame": "#adb09f",
          "tab_text": "#000",
   
@@ -55,7 +55,7 @@
          //"toolbar_field_separator": "",
          "toolbar_field_text": "",
          "toolbar_field_text_focus": "",
-         "toolbar_text": "",
+         "toolbar_text": "", // Chrome = "bookmark_text": "",
          "toolbar_top_separator": "",
          "toolbar_vertical_separator": ""
       },
