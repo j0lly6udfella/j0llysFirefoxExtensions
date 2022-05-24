@@ -31,25 +31,25 @@
 
          "toolbar": "white",
          "sidebar": "white",
+         "frame": "red",
          "popup": "white",
-         "toolbar_field": "",
-         "ntp_background": "",
+         "toolbar_field": "gray",
+         "ntp_background": "white",
 
          "sidebar_highlight": "",
          "popup_highlight": "",
          "toolbar_field_highlight": "",
 
+         "frame_inactive": "",
          "button_background_active": "",
          "icons_attention": "",
          "tab_line": "",
          "tab_loading": "",
          "button_background_hover": "",
-         "frame_inactive": "",
 
          "sidebar_border": "",
          "popup_border": "",
          "toolbar_field_border": "",
-         "frame": "",
 
          "toolbar_bottom_separator": "",
          "toolbar_top_separator": "",
