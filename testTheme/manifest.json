@@ -15,13 +15,13 @@
       
       "colors": {
          "toolbar_text": "black",
-         "sidebar_text": "black",
-         "popup_text": "black",
+         "sidebar_text": "white",
+         "popup_text": "white",
          "tab_text": "black",
          "tab_background_text": "white",
          "icons": "black",
-         "toolbar_field-text": "black",
-         "ntp_text": "black",
+         "toolbar_field_text": "black",
+         "ntp_text": "white",
 
          "toolbar_highlight_text": "",
          "sidebar_highlight_text": "",
@@ -30,11 +30,11 @@
          "toolbar_field_highlight_text": "",
 
          "toolbar": "white",
-         "sidebar": "white",
+         "sidebar": "gray",
          "frame": "gray",
-         "popup": "white",
+         "popup": "gray",
          "toolbar_field": "gray",
-         "ntp_background": "white",
+         "ntp_background": "gray",
 
          "sidebar_highlight": "",
          "popup_highlight": "",
@@ -47,9 +47,9 @@
          "tab_loading": "",
          "button_background_hover": "",
 
-         "sidebar_border": "",
-         "popup_border": "",
-         "toolbar_field_border": "",
+         "sidebar_border": "white",
+         "popup_border": "white",
+         "toolbar_field_border": "black",
 
          "toolbar_bottom_separator": "",
          "toolbar_top_separator": "",
