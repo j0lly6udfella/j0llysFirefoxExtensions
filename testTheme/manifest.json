@@ -3,66 +3,74 @@
     "description": "Theme using a PNG as the theme_frame image, employing a faded edge. See https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples#themes",
     "manifest_version": 2,
     "name": "test",
-    "version": "1.1",
+    "version": "1.0",
     "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/themes/weta_fade",
   
     "theme": {
       "images": {
-        "theme_frame": "test.png"//, // Chrome = Anchors top left
+        "theme_frame": ""//, // Chrome = Anchors top left
   
-        //"additional_backgrounds": []
+        // "additional_backgrounds": []
       },
       
-      "colors": {// Chrome = "colors": [0, 0, 0]
-         "frame": "black",
-         "tab_text": "white",
-  
-         //"accentcolor: "",
-         "bookmark_text": "white",
-         "button_background_active": "black",
-         "button_background_hover": "black",
-         "icons": "white",
-         "icons_attention": "black",
+      "colors": {
+         "toolbar_text": "black",
+         "sidebar_text": "black",
+         "popup_text": "black",
+         "tab_text": "black",
+         "tab_background-text": "black",
+         "icons": "black",
+         "toolbar_field-text": "black",
+         "ntp_text": "black",
+
+         "toolbar_highlight_text": "",
+         "sidebar_highlight_text": "",
+         "popup_highlight_text": "",
+         "tab_selected": "",
+         "toolbar_field_highlight_text": "",
+
+         "toolbar": "",
+         "sidebar": "",
+         "popup": "",
+         "frame": "",
+         "toolbar_field": "",
+         "ntp_background": "",
+
+         "sidebar_highlight": "",
+         "popup_highlight": "",
+         "toolbar_field_highlight": "",
+
+         "button_background_active": "",
+         "frame_inactive": "",
+         "icons_attention": "",
+         "tab_line": "",
+         "tab_loading": "",
+         "button_background_hover": "",
+
+         "sidebar_border": "",
+         "popup_border": "",
+         "toolbar_field_border": "",
+
+         "toolbar_bottom_separator": "",
+         "toolbar_top_separator": "",
+         "toolbar_vertical_separator": "",
          
-         "frame_inactive": "black",
-         "ntp_background": "black",
-         "ntp_text": "white",
-         "popup": "black",
-         "popup_border": "black",
-         "popup_highlight": "black",
-         "popup_highlight_text": "white",
-         "popup_text": "white",
-         "sidebar": "black",
-         "sidebar_border": "black",
-         "sidebar_highlight": "black",
-         "sidebar_highlight_text": "white",
-         "sidebar_text": "white",
-         //"tab_background_separator": "",
-         "tab_background_text": "white",
-         "tab_line": "black",
-         "tab_loading": "black",
-         "tab_selected": "black",
-         
-         //"textcolor": "",
-         "toolbar": "black",
-         "toolbar_bottom_separator": "black",
-         "toolbar_field": "black",
-         "toolbar_field_border": "black",
-         "toolbar_field_border_focus": "black",
-         "toolbar_field_focus": "black",
-         "toolbar_field_highlight": "white",
-         "toolbar_field_highlight_text": "white",
-         //"toolbar_field_separator": "",
-         "toolbar_field_text": "white",
-         "toolbar_field_text_focus": "black",
-         "toolbar_text": "white", // Chrome = "bookmark_text": "",
-         "toolbar_top_separator": "black",
-         "toolbar_vertical_separator": "black"
+         "toolbar_field_focus": "",
+         "toolbar_field_text_focus": "",
+         "toolbar_field_border_focus": "",
+
+         // "accentcolor": "",
+         // "bookmark_text": "",
+         // "tab_background_separator": "",
+         // "textcolor": "",
+         // "toolbar_field_separator": "",
+         // Chrome = "colors": [0, 0, 0],
+         "": ""
       },
   
       "properties": {
-          //"additional_backgrounds_alignment": [],
-          //"additional_backgrounds_tiling": []
+          // "additional_backgrounds_alignment": [],
+          // "additional_backgrounds_tiling": []
       }
     }
   }
