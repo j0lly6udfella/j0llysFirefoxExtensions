@@ -18,7 +18,7 @@
          "sidebar_text": "black",
          "popup_text": "black",
          "tab_text": "black",
-         "tab_background-text": "black",
+         "tab_background-text": "white",
          "icons": "black",
          "toolbar_field-text": "black",
          "ntp_text": "black",
@@ -31,7 +31,7 @@
 
          "toolbar": "white",
          "sidebar": "white",
-         "frame": "red",
+         "frame": "gray",
          "popup": "white",
          "toolbar_field": "gray",
          "ntp_background": "white",
