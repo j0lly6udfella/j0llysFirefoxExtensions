@@ -29,10 +29,9 @@
          "tab_selected": "",
          "toolbar_field_highlight_text": "",
 
-         "toolbar": "",
-         "sidebar": "",
-         "popup": "",
-         "frame": "",
+         "toolbar": "white",
+         "sidebar": "white",
+         "popup": "white",
          "toolbar_field": "",
          "ntp_background": "",
 
@@ -41,15 +40,16 @@
          "toolbar_field_highlight": "",
 
          "button_background_active": "",
-         "frame_inactive": "",
          "icons_attention": "",
          "tab_line": "",
          "tab_loading": "",
          "button_background_hover": "",
+         "frame_inactive": "",
 
          "sidebar_border": "",
          "popup_border": "",
          "toolbar_field_border": "",
+         "frame": "",
 
          "toolbar_bottom_separator": "",
          "toolbar_top_separator": "",
