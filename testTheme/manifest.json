@@ -8,20 +8,20 @@
   
     "theme": {
       "images": {
-        "theme_frame": ""//, // Chrome = Anchors top left
+        "theme_frame": "test.png"//, // Chrome = Anchors top left
   
         // "additional_backgrounds": []
       },
       
       "colors": {
          "toolbar_text": "rgba(0, 0, 0, 0.75)",
-         "sidebar_text": "rgb(255, 255, 255)",
-         "popup_text": "rgba(255, 255, 255, 0.75)",
+         "sidebar_text": "rgba(254, 255, 181, 0.75)",
+         "popup_text": "rgba(254, 255, 200, 0.75)",
          "tab_text": "rgba(0, 0, 0, 0.75)",
-         "tab_background_text": "rgba(255, 255, 255, 0.75)",
+         "tab_background_text": "rgba(254, 255, 200, 0.75)",
          "icons": "rgba(0, 0, 0, 0.75)",
          "toolbar_field_text": "rgba(0, 0, 0, 0.75)",
-         "ntp_text": "rgba(255, 255, 255, 0.75)",
+         "ntp_text": "rgba(254, 255, 200, 0.75)",
 
          "toolbar_highlight_text": "",
          "sidebar_highlight_text": "",
@@ -29,11 +29,11 @@
          "tab_selected": "",
          "toolbar_field_highlight_text": "",
 
-         "toolbar": "rgba(255, 255, 255, 0.75)",
+         "toolbar": "rgba(254, 255, 200, 0.75)",
          "sidebar": "rgba(128, 128, 128, 0.75)",
-         "frame": "rgb(128, 128, 128)",
-         "popup": "rgba(128, 128, 128, 0.75)",
-         "toolbar_field": "rgba(128, 128, 128, 0.75)",
+         "frame": "rgba(136, 42, 29, 1)",
+         "popup": "rgba(136, 42, 29, 0.75)",
+         "toolbar_field": "rgba(136, 42, 29, 0.75)",
          "ntp_background": "rgba(128, 128, 128, 0.75)",
 
          "sidebar_highlight": "",
