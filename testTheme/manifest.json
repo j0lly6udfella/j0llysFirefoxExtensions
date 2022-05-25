@@ -26,13 +26,13 @@
          "toolbar_highlight_text": "",
          "sidebar_highlight_text": "",
          "popup_highlight_text": "",
-         "tab_selected": "",
          "toolbar_field_highlight_text": "",
 
          "toolbar": "rgba(254, 255, 200, 0.75)",
          "sidebar": "rgba(128, 128, 128, 0.75)",
          "frame": "rgba(136, 42, 29, 1)",
          "popup": "rgba(136, 42, 29, 0.75)",
+         "tab_selected": "rgba(254, 255, 200, 0.75)",
          "toolbar_field": "rgba(136, 42, 29, 0.75)",
          "ntp_background": "rgba(128, 128, 128, 0.75)",
 
