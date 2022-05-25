@@ -8,56 +8,66 @@
   
     "theme": {
       "images": {
-        "theme_frame": "test.png"//, // Chrome = Anchors top left
+        "theme_frame": "test.jpg"//, // Chrome = Anchors top left
   
         // "additional_backgrounds": []
       },
       
       "colors": {
-         "toolbar_text": "rgba(0, 0, 0, 0.75)",
-         "sidebar_text": "rgba(254, 255, 181, 0.75)",
-         "popup_text": "rgba(254, 255, 200, 0.75)",
-         "tab_text": "rgba(0, 0, 0, 0.75)",
-         "tab_background_text": "rgba(254, 255, 200, 0.75)",
-         "icons": "rgba(0, 0, 0, 0.75)",
-         "toolbar_field_text": "rgba(0, 0, 0, 0.75)",
-         "ntp_text": "rgba(254, 255, 200, 0.75)",
+        //  "toolbar_text": "rgba(0, 0, 0, 0.75)",
+        //  "sidebar_text": "rgba(254, 255, 181, 0.75)",
+        //  "popup_text": "rgba(254, 255, 200, 0.75)",
+        //  "tab_text": "rgba(0, 0, 0, 0.75)",
+        //  "tab_background_text": "rgba(254, 255, 200, 0.75)",
+        //  "icons": "rgba(0, 0, 0, 0.75)",
+        //  "toolbar_field_text": "rgba(0, 0, 0, 0.75)",
+        //  "ntp_text": "rgba(254, 255, 200, 0.75)",
 
-         "toolbar_highlight_text": "",
-         "sidebar_highlight_text": "",
-         "popup_highlight_text": "",
-         "toolbar_field_highlight_text": "",
+        //  "toolbar_highlight_text": "",
+        //  "sidebar_highlight_text": "",
+        //  "popup_highlight_text": "",
+        //  "toolbar_field_highlight_text": "",
 
-         "toolbar": "rgba(254, 255, 200, 0.75)",
-         "sidebar": "rgba(128, 128, 128, 0.75)",
-         "frame": "rgba(136, 42, 29, 1)",
-         "popup": "rgba(136, 42, 29, 0.75)",
-         "tab_selected": "rgba(254, 255, 200, 0.75)",
-         "toolbar_field": "rgba(136, 42, 29, 0.75)",
-         "ntp_background": "rgba(128, 128, 128, 0.75)",
+        //  "toolbar": "rgba(254, 255, 200, 0.75)",
+        //  "sidebar": "rgba(128, 128, 128, 0.75)",
+        //  "frame": "rgba(136, 42, 29, 1)",
+        //  "popup": "rgba(136, 42, 29, 0.75)",
+        //  "tab_selected": "rgba(254, 255, 200, 0.75)",
+        //  "toolbar_field": "rgba(136, 42, 29, 0.75)",
+        //  "ntp_background": "rgba(128, 128, 128, 0.75)",
 
-         "sidebar_highlight": "",
-         "popup_highlight": "",
-         "toolbar_field_highlight": "",
+        //  "sidebar_highlight": "",
+        //  "popup_highlight": "",
+        //  "toolbar_field_highlight": "",
 
-         "frame_inactive": "",
-         "button_background_active": "",
-         "icons_attention": "",
-         "tab_line": "",
-         "tab_loading": "",
-         "button_background_hover": "",
+        //  "frame_inactive": "",
+        //  "button_background_active": "",
+        //  "icons_attention": "",
+        //  "tab_line": "",
+        //  "tab_loading": "",
+        //  "button_background_hover": "",
 
-         "sidebar_border": "rgba(255, 255, 255, 0)",
-         "popup_border": "rgba(255, 255, 255, 0)",
-         "toolbar_field_border": "rgba(0, 0, 0, 0)",
+        //  "sidebar_border": "rgba(255, 255, 255, 0)",
+        //  "popup_border": "rgba(255, 255, 255, 0)",
+        //  "toolbar_field_border": "rgba(0, 0, 0, 0)",
 
-         "toolbar_bottom_separator": "",
-         "toolbar_top_separator": "",
-         "toolbar_vertical_separator": "",
+        //  "toolbar_bottom_separator": "",
+        //  "toolbar_top_separator": "",
+        //  "toolbar_vertical_separator": "",
          
-         "toolbar_field_focus": "",
-         "toolbar_field_text_focus": "",
-         "toolbar_field_border_focus": ""
+        //  "toolbar_field_focus": "",
+        //  "toolbar_field_text_focus": "",
+        //  "toolbar_field_border_focus": ""
+        "toolbar": "rgb(7, 50, 84)",
+        "toolbar_text": "rgb(232, 167, 82)",
+        "frame": "rgb(14, 41, 65)",
+        "tab_background_text": "rgb(182, 140, 78)",
+        "toolbar_field": "rgb(38, 72, 102)",
+        "toolbar_field_text": "rgb(232, 167, 82)",
+        "tab_line": "rgb(232, 167, 82)",
+        "popup": "rgb(7, 50, 84)",
+        "popup_text": "rgb(182, 140, 78)",
+        "tab_loading": "rgb(232, 167, 82)"
 
          // "accentcolor": "",
          // "bookmark_text": "",
