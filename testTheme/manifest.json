@@ -14,19 +14,33 @@
       },
       
       "colors": {
-        "toolbar": "rgb(7, 50, 84)",
+        // Highlights:
+        // -> toolbar_text
+        // -> toolbar_field_text
+        // -> tab_line
+        // -> tab_loadinging
+        // Shadows:
+        // -> toolbar
+        // -> frame
+        // -> popup
+        // -> toolbar_field
+        // Neutral:
+        // -> popuptext
+        // -> tab_background_text
+
+        "toolbar": "#2f4f4f",
         //  "sidebar": "",
-        "frame": "rgb(14, 50, 84)",
-        "popup": "rgb(7, 50, 84)",
+        "frame": "#2f4f4f",
+        "popup": "#2f4f4f",
         //  "tab_selected": "",
-        "toolbar_field": "rgb(38, 72, 102)",
+        "toolbar_field": "#2f4f4f",
         //  "ntp_background": "",
 
-        "toolbar_text": "rgb(232, 167, 82)",
+        "toolbar_text": "#ffa500",
         //  "sidebar_text": "",
-        "popup_text": "rgb(132, 167, 82)",
+        "popup_text": "#a9a9a9",
         //  "tab_text": "",
-        "tab_background_text": "rgb(132, 167, 82)",
+        "tab_background_text": "#a9a9a9",
         //  "icons": "",
         "toolbar_field_text": "rgb(232, 167, 82)",
         //  "ntp_text": "",
@@ -43,8 +57,8 @@
         //  "frame_inactive": "",
         //  "button_background_active": "",
         //  "icons_attention": "",
-        "tab_line": "rgb(232, 167, 82)",
-        "tab_loading": "rgb(232, 167, 82)"
+        "tab_line": "#ffa500",
+        "tab_loading": "#ffa500"
         //  "button_background_hover": "",
 
         //  "sidebar_border": "",
