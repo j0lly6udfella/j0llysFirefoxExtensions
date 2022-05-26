@@ -8,7 +8,7 @@
   
     "theme": {
       "images": {
-        "theme_frame": "test.jpg"//, // Chrome = Anchors top left
+        "theme_frame": "test.png"//, // Chrome = Anchors top left
   
         // "additional_backgrounds": []
       },
