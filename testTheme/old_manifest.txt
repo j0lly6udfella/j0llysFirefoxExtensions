@@ -37,12 +37,12 @@
         // -> popuptext
         // -> tab_background_text
 
-        "toolbar": "#4683b4",
+        "toolbar": "#2f4f4f",
         //  "sidebar": "",
-        "frame": "#4682b4",
-        "popup": "#4682b4",
+        "frame": "#2f4f4f",
+        "popup": "#2f4f4f",
         //  "tab_selected": "",
-        "toolbar_field": "#4682b4",
+        "toolbar_field": "#2f4f4f",
         //  "ntp_background": "",
 
         "toolbar_text": "#ffa500",
@@ -51,7 +51,7 @@
         //  "tab_text": "",
         "tab_background_text": "##a9a9a9",
         //  "icons": "",
-        "toolbar_field_text": "#e8a752",
+        "toolbar_field_text": "rgb(232, 167, 82)",
         //  "ntp_text": "",
 
         //  "toolbar_highlight_text": "",
