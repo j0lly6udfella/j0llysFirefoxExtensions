@@ -14,7 +14,7 @@
         //"notebook1.png"
         //"notebook2.png"
         //"notebook3.png"
-        //"notebook4.png"
+        "notebook4.png"
         //"wood.png"
   
         //"additional_backgrounds": [
@@ -37,19 +37,19 @@
         // -> popuptext
         // -> tab_background_text
 
-        "toolbar": "rgba(47, 79, 79, 0.5)",
+        "toolbar": "#2f4f4f",
         //  "sidebar": "",
-        "frame": "rgba(47, 79, 79, 0.5)",
-        "popup": "rgba(47, 79, 79, 0.5)",
+        "frame": "#2f4f4f",
+        "popup": "#2f4f4f",
         //  "tab_selected": "",
-        "toolbar_field": "rgba(47, 79, 79, 0.5)",
+        "toolbar_field": "#2f4f4f",
         //  "ntp_background": "",
 
         "toolbar_text": "#ffa500",
         //  "sidebar_text": "",
-        "popup_text": "#ffa500",//"#a9a9a9",
+        "popup_text": "#a9a9a9",
         //  "tab_text": "",
-        "tab_background_text": "#ffa500",//"#a9a9a9",
+        "tab_background_text": "##a9a9a9",
         //  "icons": "",
         "toolbar_field_text": "rgb(232, 167, 82)",
         //  "ntp_text": "",
