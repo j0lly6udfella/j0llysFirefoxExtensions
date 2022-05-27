@@ -13,7 +13,9 @@
         //"default.png"
         //"notebook1.png"
         //"notebook2.png"
-        "wood.png"
+        //"notebook3.png"
+        //"notebook4.png"
+        //"wood.png"
   
         //"additional_backgrounds": [
         //  "test.png"
@@ -35,12 +37,12 @@
         // -> popuptext
         // -> tab_background_text
 
-        "toolbar": "#2f4f4f",
+        "toolbar": "rgba(47, 79, 79, 0.5)",
         //  "sidebar": "",
-        "frame": "#2f4f4f",
-        "popup": "#2f4f4f",
+        "frame": "rgba(47, 79, 79, 0.5)",
+        "popup": "rgba(47, 79, 79, 0.5)",
         //  "tab_selected": "",
-        "toolbar_field": "#2f4f4f",
+        "toolbar_field": "rgba(47, 79, 79, 0.5)",
         //  "ntp_background": "",
 
         "toolbar_text": "#ffa500",
