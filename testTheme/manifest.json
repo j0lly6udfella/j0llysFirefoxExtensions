@@ -8,9 +8,16 @@
   
     "theme": {
       "images": {
-        "theme_frame": "test.png"//, // Chrome = Anchors top left
+        "theme_frame": 
+        //"test.png" // Chrome = Anchors top left
+        //"default.png"
+        //"notebook1.png"
+        //"notebook2.png"
+        "wood.png"
   
-        // "additional_backgrounds": []
+        //"additional_backgrounds": [
+        //  "test.png"
+        //]
       },
       
       "colors": {
@@ -38,9 +45,9 @@
 
         "toolbar_text": "#ffa500",
         //  "sidebar_text": "",
-        "popup_text": "#a9a9a9",
+        "popup_text": "#ffa500",//"#a9a9a9",
         //  "tab_text": "",
-        "tab_background_text": "#a9a9a9",
+        "tab_background_text": "#ffa500",//"#a9a9a9",
         //  "icons": "",
         "toolbar_field_text": "rgb(232, 167, 82)",
         //  "ntp_text": "",
@@ -82,8 +89,12 @@
       },
   
       "properties": {
-          // "additional_backgrounds_alignment": [],
-          // "additional_backgrounds_tiling": []
+        //"additional_backgrounds_alignment": [
+        //  "right center"
+        //],
+        //"additional_backgrounds_tiling": [
+        //  "repeat"
+        //]
       }
     }
   }
